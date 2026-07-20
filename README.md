@@ -37,6 +37,7 @@ socks5://user:pass@ip:port
 ## Included Data
 
 This repository includes a list of approximately **11 million scanned group IDs** for convenience.
+> **Note:** the file was too large to upload here. so you are going to have to get it using [this]<https://mega.nz/file/ZPUBEQAZ#fDVsCpLZyh_yYOc7VOY5n4wt5GVVw-iBr4KP7bqu03k> Link. If you dont trust it that is fine, you can always scan yourself.
 
 Feel free to use them however you like.
 
